@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/snd_announcer_tencount.wav-9f9da449b5fc65267c3922ba85f07a13.sample"
+
+[deps]
+
+source_file="res://SFX/snd_announcer_tencount.wav"
+dest_files=[ "res://.import/snd_announcer_tencount.wav-9f9da449b5fc65267c3922ba85f07a13.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

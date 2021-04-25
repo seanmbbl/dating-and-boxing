@@ -1,0 +1,66 @@
+<Wendy>
+Whew, you're better at boxing\nthan I thought you would be...
+<Wendy,2,2,1>
+But I was holding back the entire fight.\nYou should see me when I go all out!
+<$>
+Uh... I think I'll pass on that...
+<Wendy,0,0,1>
+Perhaps it's better to get know\neach other a little bit better.
+Is there something you want to know about me?#School life<10>;Start of boxing<29>;Manga<38>
+<$>
+How are you doing at school?
+<Wendy,0,3,0>
+{play_sfx:confusion}
+Uh... great..?\nMy grades are all just above\nwhat is needed to pass..?
+<Narrator>
+Shallow questions are not going to\nbring this relationship to a deeper level...
+It would be better to ask her about her favorite...#Subject<18>;Teacher<24>
+<Wendy,3,0,1>
+My favorite subject is the arts.
+Not because I'm very creative, but because\nthere aren't any real test you have to study for.
+Just make something decent and you'll pass.
+<Wendy,3,3,0>
+Though P.E. would be my favorite\nif the teacher let us do boxing...<48>
+<Wendy,0,0,0>
+Hmmm...\nI guess that would be Mr. Willink.
+He's the only teacher I ca listen to\nwithout falling aspleep halfway through.
+<Wendy,0,3,0>
+Though Mr. Smalls would be my favorite\nif he lets us do boxing during P.E.<48>
+<$>
+Where did your passion for boxing come from?
+<Wendy,3,0,1>
+{play_sfx:hearts}
+My passion started when I was 5 years old.\nI was watching an old boxing match between\nMuhammad Ali and George Foreman.
+Foreman was considered one of the heaviest hitters\nin the history of boxing.\nHe was the favorite to win.
+And yet, Ali came victorious.\nAll while taunting him during the bout.\nThat moment really moved me.
+<Wendy,0,1,1>
+Ali became loved by the world by winning that bout,\nand I decided I wanted to be famous too someday.<55>
+<$>
+Do you like manga?
+<Wendy,1,5,2>
+{play_sfx:disgust}
+...
+<Wendy,1,2,2>
+Hate it.
+<$>
+...
+Perhaps I should change the subject...#School life<10>;Start of boxing<29>
+<$>
+You really like boxing a lot, huh?
+<Wendy,0,4,1>
+{play_sfx:idea}
+Say, why don't we step into the ring\nonce more?
+<Wendy,2,2,1>
+If you do, perhaps you'll understand the beauty\nof boxing like I do.<63>
+<$>
+I'm sure you're dream will come true\nif you train hard enough.
+<Wendy,0,4,1>
+{play_sfx:idea}
+Speaking of which,\n why don't we step into the ring once more?
+<Wendy,2,2,1>
+I'll need to train extra hard to become\nthe champion of the world.
+And you'll make a good training partner!
+<$>
+Uh... okay...\nI've fought you before so I don't see\nwhy I wouldn't..?
+<Wendy>
+Just a heads-up:\nthis bout will not be as easy as the last!

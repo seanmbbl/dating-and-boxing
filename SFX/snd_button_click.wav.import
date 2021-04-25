@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/snd_button_click.wav-378b0f7bdbd17ae31c36e84a3b36f3de.sample"
+
+[deps]
+
+source_file="res://SFX/snd_button_click.wav"
+dest_files=[ "res://.import/snd_button_click.wav-378b0f7bdbd17ae31c36e84a3b36f3de.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

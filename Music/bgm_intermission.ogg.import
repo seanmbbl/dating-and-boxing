@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bgm_intermission.ogg-eb281de82c892eb891223993873562d0.oggstr"
+
+[deps]
+
+source_file="res://Music/bgm_intermission.ogg"
+dest_files=[ "res://.import/bgm_intermission.ogg-eb281de82c892eb891223993873562d0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

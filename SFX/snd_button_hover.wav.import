@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/snd_button_hover.wav-15bb6ff6fd83106e84beb25c8785d5f2.sample"
+
+[deps]
+
+source_file="res://SFX/snd_button_hover.wav"
+dest_files=[ "res://.import/snd_button_hover.wav-15bb6ff6fd83106e84beb25c8785d5f2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/snd_confusion.wav-aa2d50c1d349cea86bffe6a579567319.sample"
+
+[deps]
+
+source_file="res://SFX/snd_confusion.wav"
+dest_files=[ "res://.import/snd_confusion.wav-aa2d50c1d349cea86bffe6a579567319.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

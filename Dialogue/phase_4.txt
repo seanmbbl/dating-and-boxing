@@ -1,0 +1,17 @@
+<Wendy>
+Welp, you've beaten me fair and square.\nI guess we're bound to do this\nevery now and then for some time...
+<Wendy,0,4,1>
+And if I'm being honest...\nI think I like it this way.
+<Wendy,0,0,1>
+The fighting keeps my head clear\nof those stupid evasive thoughts.
+<$>
+Perhaps it is better if we do\nsomething a bit more, uhm...\n"date-like" tomorrow.
+I mean...\nAll we did up to now is fighting...
+<Narrator>
+Man, that sounds weird out of context...
+<Wendy>
+You're right.\nLet's watch a movie together tomorrow!
+<Wendy,3,1,1>
+I hear there's a sequel\nto the Rocky series in theaters now!
+<$>
+Oh no... here we go again...

@@ -1,0 +1,55 @@
+<$>
+There she is.\nWendy Levinne.\nBeautiful as ever.
+I fantasized about her a lot,\nbut this is the first time I've been on a date with her.
+My communication skills aren't the best,\nbut hopefully I'll be able to...
+<Wendy,1,0,0>
+Uh... $...\nwho are you talking to?
+<$>
+Oh! Wendy!\nI thought I was... uhh...
+<Wendy>
+You thought you were what?#Daydreaming<11>;Never Mind<16>
+<Wendy,1,2,2>
+{play_sfx:disgust}
+Wow... this "date" is already off to a good start!\nAre you already dozing off?!
+<$>
+I will be focused on you for the rest of\nthe day, my dear!\nI swear!<18>
+<Wendy,0,3,0>
+Try not to be distracted by other thoughts\nduring our little date today, okay?
+<Wendy,0,0,0>
+Maybe we should do something to break the ice.\nTo get to know each other better.
+Do you have any hobbies?#Cooking<21>;Sporting<23>;Watching anime<33>
+<Wendy,0,0,1>
+Huh. Being able to cook well\nis always a plus in my book.<42>
+<Wendy,0,1,1>
+{play_sfx:hearts}
+Really?\nI'm a sporty person too!
+<Wendy,3,0,1>
+To be precise, I love boxing.\nNothing beats the feeling you get when you're\npunching the other person IN THE FACE!
+Hey, why don't you come see me fighting?\nYou'll get a front row seat!
+<$>
+Really? That sounds great!
+<Wendy,2,2,1>
+And by "front row seat" I mean you\nget to fight me!\nIN THE RING!<48>
+<Wendy,1,5,2>
+{play_sfx:disgust}
+Ugh... ARE YOU SERIOUS?!\nYou're the 5th person this week who\ngave me that exact answer!
+<Narrator>
+Note to self:\nPerhaps I should not tell her about my\n12-hour long anime marathon sessions.
+<Wendy,0,2,0>
+I almost wanted to end the date right here and now,\nbut I'll give you one more chance to talk yourself\nout of this mess.
+<$>
+Uhhh... okay....\n...what is your hobby..?
+<Wendy,0,0,1>
+My personal hobby is boxing.\nI may not look very strong, but boxing\nis fighting backed by TECHNIQUE.
+It's not the strongest boxer who always wins.\nIt's the one who can exploit the other's weakness first.
+In fact, why don't I give you a demonstration?
+<Wendy,2,2,1>
+And by "demonstration" I mean you get to fight me!\nIN THE RING!
+That way, you can make up for\nnot paying attention in the beginning!
+<$>
+Uuuuhhhhhh...\nSure...?\nQuestion mark...?
+<Wendy,3,1,1>
+Great! See you at 8pm tonight!\nGood-bye!
+<Narrator>
+Wow... you really know how to dig yourself\ndeeper and deeper, don't you?
+Welp, you don't have much of a choice now.\nIf you want to win her heart,\nyou'll need to face her in the ring.
